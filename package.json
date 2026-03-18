@@ -15,7 +15,6 @@
     "express-zip": "^3.0.0",
     "fs": "0.0.1-security",
     "http-errors": "~1.6.3",
-    "jade": "~1.11.0",
     "morgan": "~1.10.1",
     "path": "^0.12.7",
     "supervisor": "^0.12.0"
