@@ -6,13 +6,13 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
+    "archiver": "^8.0.0",
     "clean-css": "^4.2.3",
     "constantinople": "^4.0.1",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "express": "^5.2.1",
     "express-handlebars": "^8.0.6",
-    "express-zip": "^3.0.0",
     "http-errors": "~1.6.3",
     "morgan": "^1.12.1",
     "path": "^0.12.7"
